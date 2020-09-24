@@ -1,1 +1,0 @@
-/home/theodorediketer/Documents/rust_stuff/rust/serialize_client/target/debug/serialize_client: /home/theodorediketer/Documents/rust_stuff/rust/serialize_client/src/main.rs /home/theodorediketer/Documents/rust_stuff/rust/serialize_client/src/simple_user_input.rs
