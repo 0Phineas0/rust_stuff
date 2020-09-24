@@ -395,7 +395,7 @@ fn main() {
     data.write().unwrap().recover();
     contacts.write().unwrap().recover();
 
-    let listener = TcpListener::bind("3.17.149.107:8080").unwrap();
+    let listener = TcpListener::bind("172.31.26.0:54321").unwrap();
     let mut client_count = 1;
     for stream in listener.incoming() {
         let data_clone = Arc::clone(&data);

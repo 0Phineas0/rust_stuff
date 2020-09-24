@@ -1,0 +1,11 @@
+/home/ubuntu/Documents/rust_stuff/rust/serialize_client/target/debug/deps/proc_macro2-44cac97f0e02dfdb.rmeta: /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/lib.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/parse.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/detection.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/fallback.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/wrapper.rs
+
+/home/ubuntu/Documents/rust_stuff/rust/serialize_client/target/debug/deps/libproc_macro2-44cac97f0e02dfdb.rlib: /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/lib.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/parse.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/detection.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/fallback.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/wrapper.rs
+
+/home/ubuntu/Documents/rust_stuff/rust/serialize_client/target/debug/deps/proc_macro2-44cac97f0e02dfdb.d: /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/lib.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/parse.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/detection.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/fallback.rs /home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/wrapper.rs
+
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/lib.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/parse.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/detection.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/fallback.rs:
+/home/ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.18/src/wrapper.rs:
