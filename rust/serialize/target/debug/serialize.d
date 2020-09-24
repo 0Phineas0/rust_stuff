@@ -1,1 +1,1 @@
-/home/theodorediketer/Documents/rust_stuff/rust/serialize/target/debug/serialize: /home/theodorediketer/Documents/rust_stuff/rust/serialize/src/main.rs
+/home/ubuntu/Documents/rust_stuff/rust/serialize/target/debug/serialize: /home/ubuntu/Documents/rust_stuff/rust/serialize/src/main.rs

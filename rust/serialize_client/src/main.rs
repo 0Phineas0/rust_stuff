@@ -110,7 +110,7 @@ fn register(mut stream: &mut TcpStream, mut reader: &mut BufReader<TcpStream>) -
 }
 
 fn main() {
-    let mut stream = TcpStream::connect("3.17.149.107:8080").unwrap();
+    let mut stream = TcpStream::connect("3.17.149.107:54321").unwrap();
     let reader = stream.try_clone().unwrap();
     let mut reader = BufReader::new(reader);
 
