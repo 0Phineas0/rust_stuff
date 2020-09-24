@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Query",""]],"fn":[["handle_client",""],["main",""]],"struct":[["Account",""],["Ans",""],["Contact",""],["Credentials",""],["Data",""],["Feedback",""]]});

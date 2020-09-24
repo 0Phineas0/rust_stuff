@@ -1,0 +1,11 @@
+var ALIASES = {};
+ALIASES["itoa"] = {};
+ALIASES["proc_macro2"] = {};
+ALIASES["quote"] = {};
+ALIASES["ryu"] = {};
+ALIASES["serde"] = {};
+ALIASES["serde_derive"] = {};
+ALIASES["serde_json"] = {};
+ALIASES["serialize"] = {};
+ALIASES["syn"] = {};
+ALIASES["unicode_xid"] = {};
