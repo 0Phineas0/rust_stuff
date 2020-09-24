@@ -1,0 +1,1 @@
+/home/phineas/Documents/Phineas/Sec./rust/serialize_client/target/debug/serialize_client: /home/phineas/Documents/Phineas/Sec./rust/serialize_client/src/main.rs /home/phineas/Documents/Phineas/Sec./rust/serialize_client/src/simple_user_input.rs

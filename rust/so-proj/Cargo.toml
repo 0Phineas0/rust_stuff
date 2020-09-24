@@ -1,0 +1,13 @@
+[package]
+name = "so-proj"
+version = "0.1.0"
+authors = ["0Phineas0 <phineas.guifontes@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+serde = { version = "1.0.104", features = ["derive"] }
+rustc-serialize = "0.3.24"
+bincode = "1.2.1"
+num_enum = "0.4.2"
