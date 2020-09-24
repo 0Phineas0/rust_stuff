@@ -1,1 +1,1 @@
-/home/phineas/Documents/Phineas/Sec./rust/serialize/target/debug/serialize: /home/phineas/Documents/Phineas/Sec./rust/serialize/src/main.rs
+/home/theodorediketer/Documents/rust_stuff/rust/serialize/target/debug/serialize: /home/theodorediketer/Documents/rust_stuff/rust/serialize/src/main.rs
